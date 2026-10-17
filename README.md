@@ -5,9 +5,13 @@
 </p>
 
 <div align="left">
-  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&layout=compact&theme=dracula&langs_count=6&hide_border=false" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0A192F&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&layout=compact&langs_count=6&hide_border=false&bg_color=0A192F&title_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" alt="Top Languages" />
 </div>
+
+<p align="center">
+  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/mari.gif?v=1" alt="Mari" />
+</p>
 
 <div align="left">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
