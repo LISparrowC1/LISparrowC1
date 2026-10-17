@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/mari-halo.gif" alt="Mari" />
+  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/mari-halo-fast.gif" alt="Mari" />
 </p>
 
 <div align="left">
