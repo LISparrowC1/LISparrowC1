@@ -5,12 +5,16 @@
 </p>
 
 <div align="left">
-  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0A192F&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=1F6FEB" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&layout=compact&langs_count=6&hide_border=false&bg_color=0A192F&title_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&icon_color=58A6FF&border_color=1F6FEB" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&layout=compact&langs_count=6&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&border_color=1F6FEB" alt="Top Languages" />
 </div>
 
 <p align="center">
+  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/hina-halo-fast.gif" alt="Hina" />
+  &nbsp;&nbsp;
   <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/mari-halo-fast.gif" alt="Mari" />
+  &nbsp;&nbsp;
+  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/mika-halo-fast.gif" alt="Mika" />
 </p>
 
 <div align="left">
