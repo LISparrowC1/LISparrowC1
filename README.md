@@ -1,9 +1,7 @@
 <h2 align="left">你好，我是 LI_SparrowC1 👋</h2>
 
 <p align="left">
-  写点小工具，也做点好玩的东西。<br>
-  <a href="https://github.com/LISparrowC1/ismotype_test">IsmoType</a> ·
-  <a href="https://github.com/LISparrowC1/TerrariaMapReveal">TerrariaMapReveal</a>
+  写点小工具，也做点好玩的东西。
 </p>
 
 <div align="left">
