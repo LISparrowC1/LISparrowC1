@@ -10,11 +10,11 @@
 </div>
 
 <p align="center">
-  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/hina-halo-sync.gif" alt="Hina" />
+  <img height="150" src="https://ghproxy.net/https://raw.githubusercontent.com/LISparrowC1/LISparrowC1/main/hina-halo-sync.gif" alt="Hina" />
   &nbsp;&nbsp;
-  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/mari-halo-sync.gif" alt="Mari" />
+  <img height="150" src="https://ghproxy.net/https://raw.githubusercontent.com/LISparrowC1/LISparrowC1/main/mari-halo-sync.gif" alt="Mari" />
   &nbsp;&nbsp;
-  <img height="150" src="https://cdn.jsdelivr.net/gh/LISparrowC1/LISparrowC1@main/mika-halo-sync.gif" alt="Mika" />
+  <img height="150" src="https://ghproxy.net/https://raw.githubusercontent.com/LISparrowC1/LISparrowC1/main/mika-halo-sync.gif" alt="Mika" />
 </p>
 
 <div align="left">
