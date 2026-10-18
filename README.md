@@ -4,6 +4,12 @@
   写点小工具，也做点好玩的东西。
 </p>
 
+<p align="left">
+  <a href="https://lisparrowc1.github.io/">
+    <img src="https://img.shields.io/badge/Blog-ALIST-8B5CF6?style=for-the-badge&logo=hexo&logoColor=white" alt="ALIST Blog" />
+  </a>
+</p>
+
 <div align="left">
   <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&icon_color=58A6FF&border_color=1F6FEB" alt="GitHub Stats" />
   <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&layout=compact&langs_count=6&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&border_color=1F6FEB" alt="Top Languages" />
