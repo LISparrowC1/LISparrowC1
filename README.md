@@ -1,7 +1,7 @@
-<h2 align="left">你好，我是 LI_SparrowC1 👋</h2>
+<h2 align="left">Hi, I'm LI_SparrowC1 👋</h2>
 
 <p align="left">
-  写点小工具，也做点好玩的东西。
+  I build small tools and fun things.
 </p>
 
 <p align="left">
