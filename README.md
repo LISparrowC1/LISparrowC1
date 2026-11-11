@@ -11,17 +11,17 @@
 </p>
 
 <div align="left">
-  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&icon_color=58A6FF&border_color=1F6FEB" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&layout=compact&langs_count=6&hide_border=false&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&border_color=1F6FEB" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=false&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=79C0FF&amp;icon_color=58A6FF&amp;border_color=1F6FEB" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=false&amp;bg_color=F6F8FA&amp;title_color=0969DA&amp;text_color=24292F&amp;icon_color=0969DA&amp;border_color=D0D7DE" />
+    <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api?username=LISparrowC1&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=false&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=79C0FF&amp;icon_color=58A6FF&amp;border_color=1F6FEB" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=79C0FF&amp;border_color=1F6FEB" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;bg_color=F6F8FA&amp;title_color=0969DA&amp;text_color=24292F&amp;border_color=D0D7DE" />
+    <img height="150" src="https://github-readme-stats.profile-readme-generator.com/api/top-langs?username=LISparrowC1&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=79C0FF&amp;border_color=1F6FEB" alt="Top Languages" />
+  </picture>
 </div>
-
-<p align="center">
-  <img height="150" src="https://ghproxy.net/https://raw.githubusercontent.com/LISparrowC1/LISparrowC1/main/hina-halo-sync.gif" alt="Hina" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://ghproxy.net/https://raw.githubusercontent.com/LISparrowC1/LISparrowC1/main/mari-halo-sync.gif" alt="Mari" />
-  &nbsp;&nbsp;
-  <img height="150" src="https://ghproxy.net/https://raw.githubusercontent.com/LISparrowC1/LISparrowC1/main/mika-halo-sync.gif" alt="Mika" />
-</p>
 
 <div align="left">
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
